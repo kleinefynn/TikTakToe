@@ -120,5 +120,5 @@ Project Link: [https://github.com/kleinefynn/TikTakToe](https://github.com/klein
 [contributors-url]: https://github.com/kleinefynn/TikTakToe/graphs/contributors
 [forks-url]: https://github.com/kleinefynn/TikTakToe/network/members
 [stars-url]: https://github.com/kleinefynn/TikTakToe/stargazers
-[issues-url]: https://github.com/fynnkleine/TikTakToe/issues
+[issues-url]: https://github.com/kleinefynn/TikTakToe/issues
 [license-url]: https://github.com/kleinefynn/TikTakToe/blob/master/LICENSE.txt
