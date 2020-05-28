@@ -64,12 +64,12 @@
 ## Usage
 
 To use the code with a different UI
-1. Download the folder inside /src/
+1. Download the folder inside '/src/'
 2. Copy the folder inside your project
 3. Import the Java files
 4. Create a class which implements the interface ITikTakToeDisplay
 5. Create a TikTakToe object and pass over the a object of your custom display class
-6. Run the game with YourTikTakToeObject.start() 
+6. Run the game with 'yourTikTakToeObject.start()' 
 
 
 
