@@ -26,7 +26,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![License][license-shield][license-url]]
 
 
 
@@ -60,7 +59,6 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements] (#Acknowledgements)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -108,11 +106,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: [https://github.com/kleinefynn/TikTakToe](https://github.com/kleinefynn/TikTakToe)
 
 
-##Acknowledgements
-
-[Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
-
 
 
 
@@ -127,4 +120,4 @@ Project Link: [https://github.com/kleinefynn/TikTakToe](https://github.com/klein
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/fynnkleine/TikTakToe/LICENSE.txt
+[license-url]: https://github.com/kleinefynn/TikTakToe/master/LICENSE.txt
