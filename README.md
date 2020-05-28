@@ -65,12 +65,12 @@
 ## Usage
 
 To use the code with a different UI
-1. Download the folder inside /src/
+1. Download the folder inside `/src/`
 2. Copy the folder inside your project
 3. Import the Java files
 4. Create a class which implements the interface ITikTakToeDisplay
 5. Create a TikTakToe object and pass over the a object of your custom display class
-6. Run the game with YourTikTakToeObject.start() 
+6. Run the game with `yourTikTakToeObject.start()`
 
 
 
@@ -112,13 +112,14 @@ Project Link: [https://github.com/kleinefynn/TikTakToe](https://github.com/klein
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/kleinefynn/tiktaktoe.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/kleinefynn/tiktaktoe.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/kleinefynn/TikTakToe.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/kleinefynn/tiktaktoe.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/kleinefynn/tiktaktoe.svg?style=flat-square
+
+[contributors-url]: https://github.com/kleinefynn/TikTakToe/graphs/contributors
+[forks-url]: https://github.com/kleinefynn/TikTakToe/network/members
+[stars-url]: https://github.com/kleinefynn/TikTakToe/stargazers
+[issues-url]: https://github.com/kleinefynn/TikTakToe/issues
 [license-url]: https://github.com/kleinefynn/TikTakToe/blob/master/LICENSE.txt
