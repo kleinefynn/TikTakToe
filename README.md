@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kleinefynn/TikTakToe">
-    <h3 align="center">YOUR_TITLE</h3>
+    <h3 align="center">TikTakToe</h3>
   </a>
 
   <p align="center">
@@ -120,4 +120,4 @@ Project Link: [https://github.com/kleinefynn/TikTakToe](https://github.com/klein
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/kleinefynn/TikTakToe/master/LICENSE.txt
