@@ -121,4 +121,4 @@ Project Link: [https://github.com/kleinefynn/TikTakToe](https://github.com/klein
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/kleinefynn/TikTakToe/master/LICENSE.txt
+[license-url]: https://github.com/kleinefynn/TikTakToe/blob/master/LICENSE.txt
