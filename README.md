@@ -115,10 +115,10 @@ Project Link: [https://github.com/kleinefynn/TikTakToe](https://github.com/klein
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 
 [contributors-url]: https://github.com/kleinefynn/TikTakToe/graphs/contributors
 [forks-url]: https://github.com/kleinefynn/TikTakToe/network/members
 [stars-url]: https://github.com/kleinefynn/TikTakToe/stargazers
-[license-url]: https://github.com/kleinefynn/TikTakToe/master/LICENSE.txt
+[issues-url]: https://github.com/fynnkleine/TikTakToe/issues
+[license-url]: https://github.com/kleinefynn/TikTakToe/blob/master//LICENSE.txt
